@@ -1,0 +1,7 @@
+# Local, checkout-only Arduino CLI state.
+# The scripts export these same directories as ARDUINO_DIRECTORIES_* so the
+# tool never writes to $HOME.
+directories:
+  data: .arduino15
+  user: .arduino-user
+  downloads: .arduino15/staging

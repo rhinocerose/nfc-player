@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.tools/
+.arduino15/
+.arduino-user/
+.build/
+.pio/
